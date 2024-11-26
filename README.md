@@ -4,7 +4,7 @@ Diabetes Prediction Model
 
 Together, Abhinandan (MCA 590013661) and Siddhant Choudhary (MCA 590014502) has created this project to analyze and predict the likelihood of diabetes.
 
-In this notebook, we will be using 4 classification models—Logistic Regression, K-Nearest Neighbors (KNN), Random Forests, and Support Vector Machines (SVM)—to predict diabetes. Each of these models will help us understand the data better and make accurate predictions.
+In this project, we will be using 4 classification models—Logistic Regression,Random Forests to predict diabetes and Tkinter for making GUI. Each of these models will help us understand the data better and make accurate predictions.
 
 Definitions
 Logistic Regression: A statistical method used for binary classification problems, where the target variable is categorical and usually binary (e.g., "Diabetes" or "No Diabetes"). Logistic regression calculates the probability that a given input belongs to a certain class.
@@ -33,3 +33,5 @@ To train multiple machine learning models and evaluate their effectiveness.
 To visualize and interpret the results, providing insights into factors influencing diabetes.
 To create an interactive prediction system using a Graphical User Interface (GUI) with tkinter for user-friendly diabetes prediction.
 The project showcases a blend of machine learning techniques, data analysis, and practical application, making it a valuable tool for educational and clinical purposes.
+
+The GUI shows the result based on the given input if the patient is Diabetic or Not Diabetic.
